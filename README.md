@@ -18,7 +18,7 @@ Também nessa aula aprendemos e criamos nosso primeiro Controller, isolando toda
 <br>
 
 #### Testando a nossa aplicação
-No terceiro dia conhecemos o conceito de Repository e como podemos utilizar ele para separar as responsabilidades nos componentes corretos. 
+> No terceiro dia conhecemos o conceito de Repository e como podemos utilizar ele para separar as responsabilidades nos componentes corretos. 
 Demos inícios aos testes automatizados e entendemos os benefícios que eles trazem para a nossa aplicação.
 <br>
 
