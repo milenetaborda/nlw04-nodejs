@@ -23,11 +23,11 @@ Demos inícios aos testes automatizados e entendemos os benefícios que eles tra
 <br>
 
 #### Envio de e-mail
-No quarto dia aprendemos como enviar e-mail, utilizando templates customizados com informações vindas do banco de dados. Aprendemos também como utilizar variáveis de ambiente dentro da aplicação.
+> No quarto dia aprendemos como enviar e-mail, utilizando templates customizados com informações vindas do banco de dados. Aprendemos também como utilizar variáveis de ambiente dentro da aplicação.
 <br>
 
 #### Finalizando nossa api com validações
-Nessa última aula finalizamos o fluxo da nossa aplicação, inserimos validações dos dados recebidos e aprendemos como tratar os possíveis erros.
+> Nessa última aula finalizamos o fluxo da nossa aplicação, inserimos validações dos dados recebidos e aprendemos como tratar os possíveis erros.
 <br>
 
 [...em andamento]
