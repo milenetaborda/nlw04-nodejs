@@ -15,8 +15,21 @@ Já nessa aula demos início ao desenvolvimento da nossa API, colocando em prát
 > No segundo dia iniciamos a configuração do banco de dados na nossa aplicação, aprendendo algumas formas possíveis para realizar o acesso do banco de dados através do Nodejs. 
 Entendemos os conceitos de migrations, models e criamos nossa primeira tabela de usuário. 
 Também nessa aula aprendemos e criamos nosso primeiro Controller, isolando toda regra para dentro dele.
-
 <br>
+
+#### Testando a nossa aplicação
+> No terceiro dia conhecemos o conceito de Repository e como podemos utilizar ele para separar as responsabilidades nos componentes corretos. 
+Demos inícios aos testes automatizados e entendemos os benefícios que eles trazem para a nossa aplicação.
+<br>
+
+#### Envio de e-mail
+> No quarto dia aprendemos como enviar e-mail, utilizando templates customizados com informações vindas do banco de dados. Aprendemos também como utilizar variáveis de ambiente dentro da aplicação.
+<br>
+
+#### Finalizando nossa api com validações
+> Nessa última aula finalizamos o fluxo da nossa aplicação, inserimos validações dos dados recebidos e aprendemos como tratar os possíveis erros.
+<br>
+
 [...em andamento]
 <br>
 
@@ -28,6 +41,8 @@ Também nessa aula aprendemos e criamos nosso primeiro Controller, isolando toda
 * Sqlite3
 * Uuidv4
 * Reflect-Metadata
+* Jest
+* SuperTest
 
 <br>
 
