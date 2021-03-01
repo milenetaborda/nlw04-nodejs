@@ -30,9 +30,6 @@ Demos inícios aos testes automatizados e entendemos os benefícios que eles tra
 > Nessa última aula finalizamos o fluxo da nossa aplicação, inserimos validações dos dados recebidos e aprendemos como tratar os possíveis erros.
 <br>
 
-[...em andamento]
-<br>
-
 ## Principais tecnologias/ferramentas utilizadas
 * NodeJS
 * Typescript
@@ -43,6 +40,9 @@ Demos inícios aos testes automatizados e entendemos os benefícios que eles tra
 * Reflect-Metadata
 * Jest
 * SuperTest
+* Ethereal
+* Nodemailer
+* Hendlebars
 
 <br>
 
