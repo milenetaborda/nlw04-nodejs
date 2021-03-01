@@ -43,6 +43,7 @@ Demos inícios aos testes automatizados e entendemos os benefícios que eles tra
 * Ethereal
 * Nodemailer
 * Hendlebars
+* Yup
 
 <br>
 
